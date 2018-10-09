@@ -21,11 +21,17 @@ let urls = [
     "*://push.zhanzhang.baidu.com/*",
     "*://cpro.baidustatic.com/*",
     "*://bdimg.share.baidu.com/static/api/js/share.js*",
-
-    // "*://adservice.google.com/*",
-    // "*://adservice.google.com/*",
-    // "*://googleads.g.doubleclick.net/*",
-    // "*://union.zbj.com/outsite/sdk.js*",
-    // "*://jspassport.ssl.qhimg.com/*",
-    // "*://zz.bdstatic.com/*"
+    //油猴
+    "*://www.google-analytics.com/analytics.js*",
+    "*://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js*",
+    "*://cdn.carbonads.com/carbon.js*",
+    // stackoverflow
+    "*://www.googletagservices.com/*",
+    "*://adservice.google.com/*",
+    "*://secure.quantserve.com/*",
+    "*://*.scorecardresearch.com/*",
+    "*://googleads.g.doubleclick.net/*",
+    "*://cdn.sstatic.net/clc/clc.min.js*",
+    "*://ssl.google-analytics.com/*",
+    "*://zz.bdstatic.com/*"
 ];
