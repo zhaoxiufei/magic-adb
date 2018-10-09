@@ -1,10 +1,24 @@
 
 
 let urls = [
+    "*://*/*/push.js*",
+    //runningcheese
+    "*://changyan.sohu.com/*",
+    "*://*.sinajs.cn/*",
+    //cnblogs
+    "*://www.cnblogs.com/mvc/blog/news.aspx*",
+    "*://*.cnblogs.com/*/C1-T2*",
+
+    //www.jb51.net/js/function.js
+    "*://www.jb51.net/js/function.js*",
+    "*://icws.jb51.net/good/arcts.js*",
+    "*://icws.jb51.net/tongji/tongji.js*",
+    "*://jspassport.ssl.qhimg.com/*",
     //--csdn
     "*://hm.baidu.com/*",
     "*://csdnimg.cn/*/tingyun*",
     "*://g.csdnimg.cn/*/track.js*",
+    "*://cee1.iteye.com/*",
     "*://static.mediav.com/*",
     "*://dup.baidustatic.com/*",
     "*://rabc1.iteye.com/*",
@@ -33,5 +47,6 @@ let urls = [
     "*://googleads.g.doubleclick.net/*",
     "*://cdn.sstatic.net/clc/clc.min.js*",
     "*://ssl.google-analytics.com/*",
+    "*://m.servedby-buysellads.com/*",
     "*://zz.bdstatic.com/*"
 ];
