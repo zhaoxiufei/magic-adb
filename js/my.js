@@ -5,6 +5,8 @@ let urls = [
     "*://*/analytics.js*",
     "*://*/track.js*",
     "*://*/adsbygoogle.js*",
+    //1.qt86.com
+    "*://1.qt86.com/*",
 
     //zhihu
     "*://zhihu-web-analytics.zhihu.com/*",
