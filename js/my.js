@@ -1,7 +1,14 @@
 
 
 let urls = [
-    "*://*/*/push.js*",
+    "*://*/push.js*",
+    "*://*/analytics.js*",
+    "*://*/track.js*",
+    "*://*/adsbygoogle.js*",
+
+    //zhihu
+    "*://zhihu-web-analytics.zhihu.com/*",
+    "*://sugar.zhihu.com/*/third_party*",
     //runningcheese
     "*://changyan.sohu.com/*",
     "*://*.sinajs.cn/*",
@@ -17,7 +24,6 @@ let urls = [
     //--csdn
     "*://hm.baidu.com/*",
     "*://csdnimg.cn/*/tingyun*",
-    "*://g.csdnimg.cn/*/track.js*",
     "*://cee1.iteye.com/*",
     "*://static.mediav.com/*",
     "*://dup.baidustatic.com/*",
@@ -36,8 +42,6 @@ let urls = [
     "*://cpro.baidustatic.com/*",
     "*://bdimg.share.baidu.com/static/api/js/share.js*",
     //油猴
-    "*://www.google-analytics.com/analytics.js*",
-    "*://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js*",
     "*://cdn.carbonads.com/carbon.js*",
     // stackoverflow
     "*://www.googletagservices.com/*",
