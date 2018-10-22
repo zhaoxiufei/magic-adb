@@ -5,8 +5,13 @@ let urls = [
     "*://*/analytics.js*",
     "*://*/track.js*",
     "*://*/adsbygoogle.js*",
+    "*://*/fuckadblock.js*",
     //1.qt86.com
     "*://1.qt86.com/*",
+    "*://crs.baidu.com/*",
+    "*://bdimg.share.baidu.com/*",
+    "*://assets.growingio.com/*",
+
 
     //zhihu
     "*://zhihu-web-analytics.zhihu.com/*",
@@ -25,7 +30,7 @@ let urls = [
     "*://jspassport.ssl.qhimg.com/*",
     //--csdn
     "*://ads.csdn.net/*",
-    "*://www.csdn.net/js/csdn_feed.min.js*",
+    // "*://www.csdn.net/js/csdn_feed.min.js*",
     "*://csdnimg.cn/search/baidu_opensug-1.0.0.js*",
     "*://csdnimg.cn/asdf/*",
     "*://g.csdnimg.cn/*",
@@ -45,6 +50,7 @@ let urls = [
     "*://csdnimg.cn/search/baidu_search*.js*",
     "*://csdnimg.cn/static/api/js/share.js*",
     "*://csdnimg.cn/public/common/gotop/js/goTop-*",
+
     //大眼仔
     "*://pos.baidu.com/*",
     "*://push.zhanzhang.baidu.com/*",
@@ -55,6 +61,7 @@ let urls = [
     // stackoverflow
     "*://www.googletagservices.com/*",
     "*://adservice.google.com/*",
+    "*://pagead2.googlesyndication.com/*",
     "*://secure.quantserve.com/*",
     "*://*.scorecardresearch.com/*",
     "*://googleads.g.doubleclick.net/*",
