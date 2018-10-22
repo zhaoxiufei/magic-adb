@@ -5,7 +5,6 @@ let urls = [
     "*://*/analytics.js*",
     "*://*/track.js*",
     "*://*/adsbygoogle.js*",
-    "*://*/fuckadblock.js*",
     //1.qt86.com
     "*://1.qt86.com/*",
     "*://crs.baidu.com/*",
@@ -30,6 +29,9 @@ let urls = [
     "*://jspassport.ssl.qhimg.com/*",
     //--csdn
     "*://ads.csdn.net/*",
+    "*://csdnimg.cn/rabbit/exposure-click/fuckadblock.js*",
+    "*://csdnimg.cn/rabbit/exposure-click/block.js*",
+
     // "*://www.csdn.net/js/csdn_feed.min.js*",
     "*://csdnimg.cn/search/baidu_opensug-1.0.0.js*",
     "*://csdnimg.cn/asdf/*",
