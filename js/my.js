@@ -1,15 +1,18 @@
 
 
 let urls = [
-    "*://*/push.js*",
-    "*://*/analytics.js*",
-    "*://*/track.js*",
-    "*://*/adsbygoogle.js*",
+    "*://*/*push.js*",
+    "*://*/*analytics.js*",
+    "*://*/*track.js*",
+    "*://*/*ads.js*",
+    "*://*/*adsbygoogle.js*",
     //1.qt86.com
     "*://1.qt86.com/*",
     "*://crs.baidu.com/*",
     "*://bdimg.share.baidu.com/*",
     "*://assets.growingio.com/*",
+    "*://c.amazon-adsystem.com/*",
+    "*://c.aaxads.com/*",
 
 
     //zhihu
