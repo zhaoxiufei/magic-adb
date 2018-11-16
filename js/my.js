@@ -1,5 +1,3 @@
-
-
 let urls = [
     "*://*/*push.js*",
     "*://*/*analytics.js*",
@@ -38,7 +36,7 @@ let urls = [
     // "*://www.csdn.net/js/csdn_feed.min.js*",
     "*://csdnimg.cn/search/baidu_opensug-1.0.0.js*",
     "*://csdnimg.cn/asdf/*",
-    "*://g.csdnimg.cn/*",
+    "*://img-ads.csdn.net/*",
     "*://sdk.appadhoc.com/*",
     "*://hm.baidu.com/*",
     "*://csdnimg.cn/*/tingyun*",
@@ -75,3 +73,4 @@ let urls = [
     "*://m.servedby-buysellads.com/*",
     "*://zz.bdstatic.com/*"
 ];
+
