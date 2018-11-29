@@ -21,7 +21,7 @@ let urls = [
     "*://*.sinajs.cn/*",
     //cnblogs
     "*://www.cnblogs.com/mvc/blog/news.aspx*",
-    "*://*.cnblogs.com/*/C1-T2*",
+    "*://*.cnblogs.com/group/*",
 
     //www.jb51.net/js/function.js
     "*://www.jb51.net/js/function.js*",
