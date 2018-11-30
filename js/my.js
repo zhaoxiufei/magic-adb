@@ -1,9 +1,10 @@
 let urls = [
     "*://*/*push.js*",
-    "*://*/*analytics.js*",
+    "*://*/*analytics*",
     "*://*/*track.js*",
     "*://*/*ads.js*",
-    "*://*/*adsbygoogle.js*",
+    "*://*/*adsbygoogle*",
+    "*://*/*fuckadblock*",
     //1.qt86.com
     "*://1.qt86.com/*",
     "*://crs.baidu.com/*",
@@ -11,6 +12,7 @@ let urls = [
     "*://assets.growingio.com/*",
     "*://c.amazon-adsystem.com/*",
     "*://c.aaxads.com/*",
+    "*://beacon.tingyun.com/*",
 
 
     //zhihu
@@ -25,17 +27,23 @@ let urls = [
     "*://*.cnblogs.com/units/*",
 
     //www.jb51.net/js/function.js
-    "*://www.jb51.net/js/function.js*",
-    "*://icws.jb51.net/good/arcts.js*",
-    "*://icws.jb51.net/tongji/tongji.js*",
+    "*://www.jb51.net/js/function*",
+    "*://icws.jb51.net/good/arcts*",
+    "*://icws.jb51.net/tongji/tongji*",
     "*://jspassport.ssl.qhimg.com/*",
     //--csdn
     "*://ads.csdn.net/*",
-    "*://csdnimg.cn/rabbit/exposure-click/fuckadblock.js*",
-    "*://csdnimg.cn/rabbit/exposure-click/block.js*",
+    "*://entry.baidu.com/*",
+    "*://statistic.csdn.net/*",
+    "*://gh.bdstatic.com/*",
+    "*://g.csdnimg.cn/*/check-adblock*",
+    "*://csdnimg.cn/public/common/libs/jquery/jquery*",
+    "*://static-blog.csdn.net/mdeditor/*",
+
+    "*://csdnimg.cn/rabbit/exposure-click/block*",
 
     // "*://www.csdn.net/js/csdn_feed.min.js*",
-    "*://csdnimg.cn/search/baidu_opensug-1.0.0.js*",
+    "*://csdnimg.cn/search/baidu_opensug*",
     "*://csdnimg.cn/asdf/*",
     "*://img-ads.csdn.net/*",
     "*://sdk.appadhoc.com/*",
@@ -51,15 +59,15 @@ let urls = [
     "*://cjhd.mediav.com/*",
     "*://csdnimg.cn/rabbit/exposure-click/main*.js*",
     "*://nbrecsys.4paradigm.com/*",
-    "*://csdnimg.cn/search/baidu_search*.js*",
-    "*://csdnimg.cn/static/api/js/share.js*",
+    "*://csdnimg.cn/search/baidu_search**",
+    "*://csdnimg.cn/static/api/js/share*",
     "*://csdnimg.cn/public/common/gotop/js/goTop-*",
 
     //大眼仔
     "*://pos.baidu.com/*",
     "*://push.zhanzhang.baidu.com/*",
     "*://cpro.baidustatic.com/*",
-    "*://bdimg.share.baidu.com/static/api/js/share.js*",
+    "*://bdimg.share.baidu.com/static/api/js/share*",
     //油猴
     "*://cdn.carbonads.com/carbon.js*",
     // stackoverflow
@@ -69,7 +77,7 @@ let urls = [
     "*://secure.quantserve.com/*",
     "*://*.scorecardresearch.com/*",
     "*://googleads.g.doubleclick.net/*",
-    "*://cdn.sstatic.net/clc/clc.min.js*",
+    "*://cdn.sstatic.net/clc/clc*",
     "*://ssl.google-analytics.com/*",
     "*://m.servedby-buysellads.com/*",
     "*://zz.bdstatic.com/*"
