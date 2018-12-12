@@ -13,7 +13,11 @@ let urls = [
     "*://c.amazon-adsystem.com/*",
     "*://c.aaxads.com/*",
     "*://beacon.tingyun.com/*",
-
+    //2cto
+    "*://statics.2cto.com/js/gg.js",
+    "*://statics.2cto.com/js/tj.js",
+    "*://*.cnzz.com/*",
+    "*://www.2cto.com/adv/*",
 
     //zhihu
     "*://zhihu-web-analytics.zhihu.com/*",
@@ -25,6 +29,7 @@ let urls = [
     "*://www.cnblogs.com/mvc/blog/news.aspx*",
     "*://*.cnblogs.com/group/*",
     "*://*.cnblogs.com/units/*",
+    "*://g.csdnimg.cn/*/baidu-search.js",
 
     //www.jb51.net/js/function.js
     "*://www.jb51.net/js/function*",
