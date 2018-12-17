@@ -5,6 +5,7 @@ let urls = [
     "*://*/*ads.js*",
     "*://*/*adsbygoogle*",
     "*://*/*fuckadblock*",
+    "*://ssl.google-analytics.com/*",
     //1.qt86.com
     "*://1.qt86.com/*",
     "*://crs.baidu.com/*",
