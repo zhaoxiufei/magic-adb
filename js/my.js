@@ -1,11 +1,20 @@
 let urls = [
     "*://*/*push.js*",
     "*://*/*analytics*",
-    "*://*/*track.js*",
+    "*://*/*analysis*",
+    "*://*/*track*",
+    "*://*/*Tracker*",
     "*://*/*ads.js*",
     "*://*/*adsbygoogle*",
     "*://*/*fuckadblock*",
     "*://ssl.google-analytics.com/*",
+    //163
+    "*://x.jd.com/mkt/pcwap?ad_ids*",
+    "*://img3.126.net/ntesrich/auto/adbox/adbox*",
+    "*://temp.163.com/*/*friend_data_api.js*",
+    "*://g.163.com/ur*",
+    "*://g.163.com/r*",
+    "*://nex.163.com/q*",
     //1.qt86.com
     "*://1.qt86.com/*",
     "*://crs.baidu.com/*",
